@@ -1,0 +1,29 @@
+body {
+    font-family: "Arial, sans-serif";
+    background-color: blue;
+}
+h1 {
+    font-size: 38px
+}
+
+h2 {
+    font-size: 32px
+}
+
+.ingredients-list {
+    list-style: "square inside"
+}
+
+header > img {
+    width: 100px
+}
+
+li > a {
+    text-decoration-line: none;
+    text-decoration-color: inherit;
+}
+
+.user_review {
+    color: green;
+    text-decoration-line: underline;     
+}
